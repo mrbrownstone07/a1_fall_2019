@@ -22,6 +22,7 @@ public class Book implements Comparable<Book>{
         this.genre = genre;
         this.isbn = isbn;
         this.yearOfPublish = yearOfPublish;
+        
     }
 
     public String getName() {return name;}
